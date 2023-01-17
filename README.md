@@ -17,7 +17,7 @@ third, upload the game code that should be named "FlixelwalkerFX3"
 
 then, open the Flash Decompiler and open the SWF, opening the scripts folder and open the <default package>
 look for a script named "mygame" and open it, going to line 49 that should be
-"PlayerIO.connect(stage, "<game string>","public","whatever","",function(c:Cleint):void"
+"PlayerIO.connect(stage, "game-string","public","whatever","",function(c:Cleint):void"
 
 if you went on the page of your PlayerIO game you would have noticed the game string in big bold letters
 copy the string and replace the old game string with your new game string.
