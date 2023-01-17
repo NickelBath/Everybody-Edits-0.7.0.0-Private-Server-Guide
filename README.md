@@ -19,7 +19,7 @@ then, open the Flash Decompiler and open the SWF, opening the scripts folder and
 look for a script named "mygame" and open it, going to line 49 that should be
 "PlayerIO.connect(stage, "game-string","public","whatever","",function(c:Cleint):void"
 
-if you went on the page of your PlayerIO game you would have noticed the game string in big bold letters
-copy the string and replace the old game string with your new game string.
+if you went on the page of your PlayerIO game you would have noticed something titled ">your game< game ID: >your game id<"
+copy the game id and replace the old game string with your new game string.
 
 if you followed the guide (and if you have uploaded the DLl game code) you would be able to launch a new room
